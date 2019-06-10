@@ -3,4 +3,4 @@
 
 ## WebGIS Demo
 切换分支后可预览：
-- [Demo Online](https://soitwater.github.io/WebDemos/WebGIS/dist/index.html)
+- [Demo Online](https://soitwater.github.io/WebDemos/WebGIS/dist)
