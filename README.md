@@ -1,6 +1,8 @@
 # WebDemos
-个人网站项目 (Personal websitedemos)  
 
-## WebGIS Demo
-切换分支后可预览：
-- [Demo Online](https://soitwater.github.io/WebDemos/WebGIS/dist/index.html)
+## Demos
+名称|链接
+-|-
+Arcgis-Runtime-Secondary-Developmen|[跳转](https://github.com/soitwaterdemos/Arcgis-Runtime-Secondary-Developmen)
+WebGISDemo|[跳转](https://github.com/soitwaterdemos/WebGISDemo)
+ChromePluginsDemo|[跳转](https://github.com/soitwaterdemos/ChromePluginsDemo)
