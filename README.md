@@ -7,3 +7,4 @@ Arcgis-Runtime-Secondary-Developmen|[跳转](https://github.com/soitwaterdemos/A
 WebGISDemo|[跳转](https://github.com/soitwaterdemos/WebGISDemo)
 ChromePluginsDemo|[跳转](https://github.com/soitwaterdemos/ChromePluginsDemo)
 SignInSdk|[跳转](https://github.com/soitwaterdemos/SignInSDK)
+HTML-Demos|[跳转](https://github.com/soitwaterdemos/HTML-Demos)
