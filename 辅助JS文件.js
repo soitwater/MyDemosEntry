@@ -6,6 +6,6 @@ let h3a = Array.from(document.querySelectorAll('h3>a'))
 let str = ''
 
 for(let i of h3a) {
-  str += i.innerText + '|[跳转](' + i.href + ')\n'
+  str += i.innerText + '|' + i.parentElement.nextElementSibling.innerText + '|[跳转](' + i.href + ')\n'
 }
 console.log(str)
