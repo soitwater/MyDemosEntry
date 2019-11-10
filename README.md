@@ -3,7 +3,6 @@
 ## Demos
 名称|描述|链接
 -|-|-
-soitwaterdemos.github.io|#博客# 2019.03 ~ 2019.10 时写的博客，已停用。|[跳转](https://github.com/soitwaterdemos/soitwaterdemos.github.io)
 EmojiSet|#EmojiSet# 一个安卓应用, 可对Emoji表情进行排版|[跳转](https://github.com/soitwaterdemos/EmojiSet)
 HTML-Demos|#仿站# 练习HTML以及CSS时模仿的Demos|[跳转](https://github.com/soitwaterdemos/HTML-Demos)
 SignInSDK|#登录SDK# 跟随网上教程敲的登录SDK, 目前弃坑状态.|[跳转](https://github.com/soitwaterdemos/SignInSDK)
